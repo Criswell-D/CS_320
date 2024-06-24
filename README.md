@@ -1,1 +1,11 @@
-# CS_320
+How can I ensure that my code, program, or software is functional and secure?
+
+By reviewing the requirements for the software, I can know what will be needed to ensure the software is functional and secure. From the requirements I will be able to identify what the potential security risks will be. When writing code, I will use industry best standards and write my code with security in mind. This means including input validation, handling errors, and using secure forms of authentication. I will test my software throughout development and before deployment ensure the software runs properly and meets the requirements. After deployment I will perform maintenance and updates as required for the software. Using these methods will ensure that my code and the software is functional and secure.
+
+How do I interpret user needs and incorporate them into a program?
+
+User stories are a good source for user needs. Gathering requirements from meetings with stakeholders is another way. From these I can develop use cases that will outline what the interactions will be for the users and program. The decision will need to be made about what functional and non-functional requirements are necessary for the program. When the software needs tested users can be used to help reduce bias and gain additional prospective. I also think there should be a method for users to leave feedback for continuous improvements.
+
+How do I approach designing software?
+
+I think that starting with the requirements is an important first step. Understanding the requirements will make the rest of the development process easier. Creating user stories and use cases are a good way to reinforce the requirements and understand how the program will be used. Once the requirements are understood making a diagram, wireframe, or prototype is my next step. Then I select the technology that will be needed to complete the software. I use the requirements to figure out what type of security is needed and how the software needs to perform. It is easier to plan for scalability during the design phase rather than after the program is fully developed. I like to focus on the requirements and following industry standards when I am designing software.
